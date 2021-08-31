@@ -6,27 +6,15 @@ I am a student studying computer science.<br>
 - Hankuk University of Foreign Studies,Department of Portuguese, Junior
 
 ## 📫 How to reach me
-<a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/heoseongil2546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://velog.io/@uonmf97" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCP9N5hY3Nsf0mh5K1awtwfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="mailto:yubin0403@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
- ## 🔭 I’m currently working on ...
- - AI study(RNN, DNN, CNN Model) in PNP
- - Manager of HUFS START-UP!PYTHON! Education Program
- - HUFS Volunteering Planning Manager
+## 🔭 I’m currently working on ...
+ -Python language
 
 ## 🔥 Experience
-- Head team of intramural Computer Science academy conference PnP [21.06~]
-- AI Study Team leader of intramural Computer Science academy conference PnP [21.03~]
-- Python Programming Education Manager called "HUFS! START-UP! PYTHON" [21.06~21.08]
-- Python Programming Education Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
-- PNP Embbeded Computer Programming Team Leader [18.06~ 19.12]
-- 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12]
 
 ## 🏆 Awards
-- HUFS TOPCIT TOP 10% Scorer in 2021 Summer
+- Certificate of HUFS! START-UP! PYTHON
 
 ## 🛠 Skills
 <center>
